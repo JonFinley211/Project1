@@ -20,11 +20,11 @@ This site provides initial information for users who are planning to travel some
 ## Second Half of Screen When 
 ![Screen Shot](assets/images/SecondHalfScreen.png)
 ## Install Instructions
--Clone Repository
--Obtain a OpenWeather Api Key
--Obtain a Youtube Api Key
--Obtain a Here Maps Key
--Open in browser 
+- Clone Repository
+- Obtain a OpenWeather Api Key
+- Obtain a Youtube Api Key
+- Obtain a Here Maps Key
+- Open in browser 
 
 
 ## Future Goals
