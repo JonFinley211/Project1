@@ -1,5 +1,5 @@
 # TravelHub Project
-This is the first group project for Vanderbilt's Coding Bootcamp. 
+Single Page app that gives tools for Travel, Videos,Maps,Weather and a ToDo List
 
 # Link 
 https://jonfinley211.github.io/Project1/
