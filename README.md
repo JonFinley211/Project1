@@ -27,6 +27,17 @@ This site provides initial information for users who are planning to travel some
 - Open in browser 
 
 
+## Install Intructions 
+-Clone Repot
+Sign up for firebase
+Sign up for open Weather api
+Sign up for youtube api
+Sign up for here maps
+npm install
+open in browser
+have fun send me what you have done:)
+
+
 ## Future Goals
 - Making a more interactive list with Google links
 - Making the map more interactive 
